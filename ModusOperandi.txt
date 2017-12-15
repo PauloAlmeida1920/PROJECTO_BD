@@ -1,0 +1,41 @@
+Modus Operandi para Projecto de Base de Dados 2017/2018
+
+BASE DE DADOS:
+
+- alojada no servidor com hostname: <delta.deec.uc.pt>
+	- o servidor é apenas para a base de dados(criado pelo professor para a cadeira)
+	- a pasta é bd_2013134414 (pasta do Diogo)
+
+- Para aceder:
+	- Workbench MySQL
+	- hostname: <delta.deec.uc.pt>
+	- username: 2013134414 
+	- password: kart4556 (pass do Diogo)
+
+NOTA:   - no Workbench MySQL apenas vamos criar as tabelas, escolher o motor da BD,
+	  fazer as queries de consulta, inserção, delete, etc.
+
+GESTÃO DE FICHEIROS:
+
+- a gestão de ficheiros vai ser feita da seguinte forma:
+	- a pasta principal(para entregar ao professor no final) vai estar alojada no servidor do 
+	  departamento na pasta com o nosso número de estudante;
+	- em paralelo, para efeitos de gestão de ficheiros do projecto usamos o Github.
+	- foi criado um repositório na minha conta do Git (PauloAlmeida1920 - que é o nome do meu repositório)
+	- Diogo, instalas o GitKraken (desktop para aceder ao repositório nde vamos trabalhar (cloud));
+	- fazes um clone desse repositório e trabalhas nessa cópia;
+	- depois para testar o código da nossa BD temos sempre de ir actualizando as nossas pastas
+	  do servidor do DEEC
+
+- para aceder às nossas pastas:
+
+	- abrir WINSCP
+	- <Hostname> : alunos.deec.uc.pt
+	- <username> : a2010128473
+	- <passwor>  : b2ntpm36
+	- /home/a2010128473/public_html/Projeto/<todos os ficheiros do projecto>
+
+- para testar o código:
+
+	- usar o browser com o seguinte caminho: http://alunos.deec.uc.pt/~a2010128473/Projeto/<nome_ficheiro>.php
+		
